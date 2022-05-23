@@ -1,0 +1,10 @@
+{
+    "name": "root/prog-oak-unittesting",
+    "authors": [
+        {
+            "name": "Vacsi Bálint",
+            "email": "balint.vacsi@prog-oak.com"
+        }
+    ],
+    "require": {}
+}
